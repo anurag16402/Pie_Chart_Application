@@ -11,8 +11,7 @@ This Flutter application displays an interactive pie chart, allowing users to vi
 
 ## Screenshots
 
-assests/Screenshot_20241113_194614.png
-
+<img src="Screenshot_20241113_194614.png" width="350" height="575" alt="App Screenshot">
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
